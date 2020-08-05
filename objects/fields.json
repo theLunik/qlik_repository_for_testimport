@@ -3,7 +3,7 @@
     "qIsHidden": true,
     "qIsSystem": true,
     "qName": "$Field",
-    "qCardinal": 1,
+    "qCardinal": 3,
     "qTags": [
       "$key",
       "$hidden",
@@ -16,7 +16,7 @@
     "qIsHidden": true,
     "qIsSystem": true,
     "qName": "$FieldNo",
-    "qCardinal": 1,
+    "qCardinal": 2,
     "qTags": [
       "$hidden",
       "$system",
@@ -29,7 +29,7 @@
     "qIsHidden": true,
     "qIsSystem": true,
     "qName": "$Fields",
-    "qCardinal": 1,
+    "qCardinal": 2,
     "qTags": [
       "$hidden",
       "$system",
@@ -55,7 +55,7 @@
     "qIsHidden": true,
     "qIsSystem": true,
     "qName": "$Rows",
-    "qCardinal": 1,
+    "qCardinal": 2,
     "qTags": [
       "$hidden",
       "$system",
@@ -68,7 +68,7 @@
     "qIsHidden": true,
     "qIsSystem": true,
     "qName": "$Table",
-    "qCardinal": 1,
+    "qCardinal": 2,
     "qTags": [
       "$key",
       "$hidden",
@@ -79,13 +79,37 @@
   },
   {
     "qName": "Поле_1",
-    "qCardinal": 1,
+    "qCardinal": 2,
     "qTags": [
       "$numeric",
       "$integer"
     ],
     "qSrcTables": [
-      "Таблица"
+      "(Таблица...)"
+    ]
+  },
+  {
+    "qName": "Поле_2",
+    "qCardinal": 1,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "Таблица-1"
+    ]
+  },
+  {
+    "qName": "Таблица-1.Поле_1",
+    "qCardinal": 1,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Таблица-1"
     ]
   }
 ]

@@ -1,13 +1,25 @@
 {
   "qInfos": [
     {
+      "qId": "827ff9b2-e6fe-4023-ba7e-bc3176e477ae",
+      "qType": "story"
+    },
+    {
       "qId": "9ba0aae1-c8af-40df-a3a7-186cd322ac92",
       "qType": "appprops",
       "modifiedDate": "2020-08-04T10:17:08.573Z"
     },
     {
+      "qId": "CUAPm",
+      "qType": "slide"
+    },
+    {
       "qId": "LoadModel",
       "qType": "LoadModel"
+    },
+    {
+      "qId": "NPKdjh",
+      "qType": "qlik-date-picker"
     },
     {
       "qId": "NnNUkju",
@@ -40,6 +52,10 @@
       "qId": "hGh",
       "qType": "dimension",
       "modifiedDate": "2020-08-05T12:18:25.221Z"
+    },
+    {
+      "qId": "krPJaz",
+      "qType": "auto-chart"
     },
     {
       "qId": "mjUUmc",
