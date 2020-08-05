@@ -1,0 +1,47 @@
+[
+  {
+    "qInfo": {
+      "qId": "Qjyhe",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "mera2",
+      "qDef": "2",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "coloring": {
+        "baseColor": {
+          "color": "#f93f17",
+          "index": 10
+        }
+      }
+    },
+    "qMetaDef": {
+      "title": "mera2",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "nyDp",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "mera1",
+      "qDef": "1",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "coloring": {}
+    },
+    "qMetaDef": {
+      "title": "mera1",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "qInfo": {
+      "qId": "hGh",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Поле_1"
+      ],
+      "qFieldLabels": [
+        "измеререние_1"
+      ],
+      "title": "измеререние_1",
+      "coloring": {
+        "changeHash": "0.14592234410604088"
+      }
+    },
+    "qMetaDef": {
+      "title": "измеререние_1",
+      "description": "",
+      "tags": []
+    }
+  }
+]
